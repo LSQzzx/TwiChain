@@ -1,5 +1,5 @@
 <div>
-    <img width="240" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/src/assets/twichain_w.png"/>
+    <img width="240" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/twichain_backgrounded.png"/>
 </div>
 
 # Social System based on Blockchain
