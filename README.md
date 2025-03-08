@@ -1,3 +1,7 @@
+<div>
+    <img width="240" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/src/assets/twichain_w.png"/>
+</div>
+
 # Social System based on Blockchain
 # 基于区块链的社交系统
 
