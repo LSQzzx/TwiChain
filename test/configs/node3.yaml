@@ -1,0 +1,8 @@
+# configs/node3.yaml
+server:
+  port: 8082
+database:
+  path: "data/node3/blockchain.db"
+blockchain:
+  difficulty: 2
+  node_address: "localhost:8080"

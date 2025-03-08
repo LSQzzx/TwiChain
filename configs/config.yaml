@@ -1,0 +1,11 @@
+# config.yaml
+
+server:
+  port: 8080
+
+database:
+  path: "data/blockchain.db"  # 相对于工作目录的路径
+
+blockchain:
+  difficulty: 2
+  node_address: "" # 为空则创建新链,否则从该节点同步数据

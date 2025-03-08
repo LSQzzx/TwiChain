@@ -1,0 +1,8 @@
+# configs/node1.yaml
+server:
+  port: 8080
+database:
+  path: "data/node1/blockchain.db"
+blockchain:
+  difficulty: 2
+  node_address: ""
