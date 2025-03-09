@@ -2,6 +2,8 @@
     <img width="240" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/twichain_backgrounded.png"/>
 </div>
 
+![License](https://img.shields.io/badge/license-MIT-orange?style=flat) ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux_|_macOS-blue?style=flat) ![Build](https://img.shields.io/github/actions/workflow/status/ScottSloan/Bili23-Downloader/deploy.yml)
+
 # Social System based on Blockchain
 # 基于区块链的社交系统
 
