@@ -132,7 +132,7 @@ private_key = ed25519.SigningKey(private_key_bytes)
 public_key = private_key.get_verifying_key()
 ```
 
-2. 签名消息：
+2. Sign message：
 - Normal posting/commenting: Use message content signature
 - Like: Use target post ID signature
 
