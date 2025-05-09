@@ -5,11 +5,8 @@
 ![License](https://img.shields.io/badge/license-MIT-orange?style=flat) ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux_|_macOS-blue?style=flat) ![Build](https://img.shields.io/github/actions/workflow/status/ScottSloan/Bili23-Downloader/deploy.yml)
 
 # Social System based on Blockchain
-# 基于区块链的社交系统
 
 This is a social platform system based on blockchain technology, supporting functions such as posting, commenting, and liking.
-
-这是一个基于区块链技术的社交平台系统，支持发帖、评论、点赞等社交功能。
 
 ## Project Structure
 
