@@ -2,7 +2,7 @@
     <img width="240" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/twichain_backgrounded.png"/>
 </div>
 
-![License](https://img.shields.io/badge/license-MIT-orange?style=flat) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LSQzzx/TwiChain) ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux_|_macOS-blue?style=flat) ![Build](https://img.shields.io/github/actions/workflow/status/ScottSloan/Bili23-Downloader/deploy.yml)
+![License](https://img.shields.io/badge/license-MIT-orange?style=flat) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LSQzzx/TwiChain) ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux_|_macOS-blue?style=flat)
 
 # Social System based on Blockchain
 
